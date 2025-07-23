@@ -1,6 +1,8 @@
-# sv
+# sv 
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This is the result of following the instructions on https://tailwindcss.com/docs/installation/using-vite
+
+I needed a reference project to see how my project config compared to the 'accepted defaults'
 
 ## Creating a project
 
